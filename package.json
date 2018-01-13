@@ -1,0 +1,24 @@
+{
+  "name": "es6",
+  "version": "0.0.1",
+  "description": "Rapid ES6 Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laithmaali/ES6.git"
+  },
+  "keywords": [
+    "ES6",
+    "Rapid",
+    "Training"
+  ],
+  "author": "Laith Maali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laithmaali/ES6/issues"
+  },
+  "homepage": "https://github.com/laithmaali/ES6#readme"
+}
